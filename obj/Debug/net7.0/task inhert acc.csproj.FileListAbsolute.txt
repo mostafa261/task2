@@ -1,0 +1,14 @@
+F:\C# taskes\task inhert acc\task inhert acc\bin\Debug\net7.0\task inhert acc.exe
+F:\C# taskes\task inhert acc\task inhert acc\bin\Debug\net7.0\task inhert acc.deps.json
+F:\C# taskes\task inhert acc\task inhert acc\bin\Debug\net7.0\task inhert acc.runtimeconfig.json
+F:\C# taskes\task inhert acc\task inhert acc\bin\Debug\net7.0\task inhert acc.dll
+F:\C# taskes\task inhert acc\task inhert acc\bin\Debug\net7.0\task inhert acc.pdb
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\task inhert acc.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\task inhert acc.AssemblyInfoInputs.cache
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\task inhert acc.AssemblyInfo.cs
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\task inhert acc.csproj.CoreCompileInputs.cache
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\task inhert acc.dll
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\refint\task inhert acc.dll
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\task inhert acc.pdb
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\task inhert acc.genruntimeconfig.cache
+F:\C# taskes\task inhert acc\task inhert acc\obj\Debug\net7.0\ref\task inhert acc.dll
